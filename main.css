@@ -1,0 +1,65 @@
+body {
+  display: flex;
+  justify-content: center;
+  padding: 50px;
+  font-family: "Calibri Light";
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  opacity: 50%;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+td {
+  padding: 10px;
+  text-align: center;
+}
+
+.interactive {
+  background-color: #ffccff;
+}
+.gd {
+  background-color: #c7d9f1;
+}
+
+.dl {
+  background-color: #b9dbe5;
+}
+
+.study {
+  background-color: #dbe5f1;
+  color: rgb(109, 129, 167);
+}
+
+.photography {
+  background-color: #fffd99;
+}
+
+.st {
+  background-color: #d6e2ba;
+}
+
+.kuben {
+  background-color: #fad3b2;
+}
+
+.mg {
+  background-color: #c5bd96;
+}
+.ss {
+  background-color: rgb(184, 176, 176);
+  color: grey;
+}
+
+main h3 {
+  border-bottom: 1px solid black;
+  padding-bottom: 10px;
+}
